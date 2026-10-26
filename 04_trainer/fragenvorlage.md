@@ -1,8 +1,8 @@
-# Fragenvorlage für Trainer-Fragen
+# Fragenvorlage für GitHub Issues
 
-Nutze diese Vorlage, wenn du bei einer Übung oder einem Thema hängst. Kopiere sie in deine Nachricht an den Trainer und fülle die Punkte aus.
+Nutze diese Vorlage, wenn du bei einer Übung oder einem Thema hängst. Lege im GitHub-Repo ein **neues Issue** an (Reiter „Issues“ → „New Issue“) und füge die ausgefüllte Vorlage dort ein.
 
-**Wichtig:** Keine sensiblen oder personenbezogenen Daten in Fragen an den Trainer. Anonymisiere Prompts und Ergebnisse („Person A“, „Firma X“), bevor du sie schickst (siehe Cheatsheet 04).
+**Wichtig:** Issues sind **öffentlich sichtbar**. Keine sensiblen oder personenbezogenen Daten in Issues. Anonymisiere Prompts und Ergebnisse („Person A“, „Firma X“), bevor du sie einfügst (siehe Cheatsheet 04).
 
 ---
 
@@ -35,7 +35,7 @@ Thema / Cheatsheet-Nr.: ____ (z. B. „06 – Prompt-Techniken“)
 
 ## Hinweise
 
-- **Bevor du fragst:** Schau ins FAQ (`04_trainer/faq.md`) – viele Fragen sind dort schon beantwortet.
-- **Je konkreter, desto schneller die Hilfe:** Ein Prompt, den der Trainer sehen kann, spart oft zwei Rückfragen.
-- **Kein Zeitlimit beim Trainer:** Fragen werden gesammelt beantwortet; dringende Fälle zuerst.
-- **Lernen durch Fragen:** Deine Frage (anonymisiert) kann in die FAQ aufgenommen werden und anderen Teilnehmern helfen.
+- **Bevor du ein Issue anlegst:** Schau ins FAQ (`04_trainer/faq.md`) und in bestehende Issues – viele Fragen sind dort schon beantwortet. Du kannst bestehende Issues einfach mit „+1“ oder einem Kommentar bekräftigen.
+- **Ein Thema pro Issue:** So bleiben Fragen auffindbar und sauber abschließbar.
+- **Je konkreter, desto schneller die Hilfe:** Ein Prompt, den man sehen kann, spart oft zwei Rückfragen.
+- **Lernen durch Fragen:** Deine Frage (anonymisiert) kann in die FAQ aufgenommen werden und anderen Teilnehmern helfen. Gelöste Issues werden geschlossen, bleiben aber als Nachschlagwerk bestehen.

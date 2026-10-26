@@ -7,6 +7,7 @@
 - Arbeite ohne Cheatsheets. So siehst du, was du wirklich behalten hast.
 - Notiere deine Antworten (Papier oder Notizdatei), bevor du in die Lösung schaust.
 - Die Lösung steht getrennt: `03_tests/test_E_agentische_systeme_loesung.md`. Schau erst hinein, wenn du fertig bist.
+- Praxisaufgaben und Sicherheits-Checks bewertest du mit dem [Selbstbewertungsraster](selbstbewertung.md) (Kriterium für Kriterium).
 - Kein Zeitlimit. Alle Beispiele enthalten nur erfundene Daten.
 
 ---

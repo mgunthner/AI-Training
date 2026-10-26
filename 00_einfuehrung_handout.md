@@ -16,7 +16,7 @@ Du lernst im Selbststudium, in deinem Tempo. Pro Thema (ca. 25–30 Min.):
 1. **Cheatsheet lesen** (ca. 10 Min.)
 2. **Übung machen** (5–10 Min.)
 3. **Zusatzübungen** (optional)
-4. **Fragen?** Frag deinen Trainer
+4. **Fragen?** Als Issue im GitHub-Repo stellen
 5. **Test** nach jedem Block
 
 **Wähle deinen Lernpfad:**
@@ -63,7 +63,7 @@ Die Tests sind kein Zeugnis, sondern ein Spiegel: Sie zeigen dir, was sitzt und 
 - **Blocktests:** nach jedem Block – Test A (`03_tests/test_A_fundament.md`), Test B (`03_tests/test_B_gute_ergebnisse.md`), Test C (`03_tests/test_C_risiken.md`), Test D (`03_tests/test_D_technik_kosten.md`), Test E (`03_tests/test_E_agentische_systeme.md`), Test F (`03_tests/test_F_abschluss.md`)
 - **Kurztest Schnellstart:** nach dem Schnellstart-Pfad (`03_tests/kurztest_schnellstart.md`)
 - **Abschlusstest:** am Ende, mischt Wissen und Praxis (`03_tests/abschlusstest.md`)
-- **Bestanden** ab 75 %. Du wertest selbst aus, mit der Lösungsdatei. Schau erst in die Lösung, wenn du fertig bist.
+- **Bestanden** ab 75 %. Du wertest selbst aus, mit der Lösungsdatei. Praxisaufgaben bewertest du mit dem [Selbstbewertungsraster](03_tests/selbstbewertung.md) – Kriterium für Kriterium, im Zweifel streng. Schau erst in die Lösung, wenn du fertig bist.
 - **Nicht bestanden?** Die Lösung nennt dir die Themen zum Wiederholen. Danach kannst du den Test erneut machen.
 
 Hake deine Fortschritte in der Checkliste ab (gelesen / geübt / Test bestanden).
@@ -71,14 +71,18 @@ Hake deine Fortschritte in der Checkliste ab (gelesen / geübt / Test bestanden)
 ## 8. Zusatzübungen
 Für jedes Thema gibt es 3–5 Extra-Aufgaben in drei Stufen: ★ Einstieg, ★★ Alltag, ★★★ Herausforderung. Nutze sie, wenn du ein Thema festigen willst oder die normale Übung zu leicht war. Lösungsansätze stehen am Ende der Datei.
 
-## 9. Trainer fragen
-Du kannst jederzeit Fragen stellen, besonders wenn du bei einer Übung hängst. Dein Trainer ist dir persönlich bekannt, nutze den Weg, den ihr vereinbart habt. Das hilft bei einer guten Frage (Vorlage: `04_trainer/fragenvorlage.md`):
-- Nenne das **Thema** (Nummer des Cheatsheets).
-- Schreibe, was du **erreichen wolltest** und was du **versucht hast**.
-- Sage, **wo du hängst**.
-- **Anonymisiere** Prompts und Ergebnisse, bevor du sie schickst. Sende keine sensiblen oder personenbezogenen Daten.
+## 9. Fragen stellen (GitHub Issues)
+Du kannst jederzeit Fragen stellen, besonders wenn du bei einer Übung hängst. Der Weg geht über **Issues in diesem GitHub-Repo**:
+- Öffne das Repo und lege unter **Issues** ein neues Issue an.
+- Kopiere die Vorlage aus `04_trainer/fragenvorlage.md` in das Issue und fülle sie aus:
+  - Nenne das **Thema** (Nummer des Cheatsheets).
+  - Schreibe, was du **erreichen wolltest** und was du **versucht hast**.
+  - Sage, **wo du hängst**.
+- **Anonymisiere** Prompts und Ergebnisse, bevor du sie ins Issue schreibst. Keine sensiblen oder personenbezogenen Daten – Issues sind öffentlich sichtbar.
 
-Häufige Fragen landen anonymisiert in der FAQ.
+Gelöste Fragen landen anonymisiert in der FAQ.
+
+> Hinweis: Wenn du keine GitHub-Account hast, brauchst du einmalig ein kostenloses Konto, um ein Issue anlegen zu können.
 
 ## 10. Lerntipps
 - Lieber kleine Einheiten als ein langer Marathon.

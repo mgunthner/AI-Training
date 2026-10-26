@@ -7,7 +7,7 @@
 
 - Beantworte die Fragen **allein und aus dem Bauch**. Nutze keine KI und keine Suchmaschine.
 - Weißt du eine Antwort nicht? Lass die Frage leer. Das ist völlig in Ordnung, dafür ist das Training da.
-- Schau **erst nach dem Test** in die Lösungsdatei: `03_tests/loesungen/eingangstest_loesung.md`.
+- Schau **erst nach dem Test** in die Lösungsdatei: `03_tests/eingangstest_loesung.md`.
 - Frage 1–8 sind Wissens- und Praxisfragen (je 1 Punkt). Frage 9–10 sind Selbsteinschätzungen ohne Punkte.
 
 ---
@@ -128,4 +128,4 @@ Begründe in einem Satz: ______________________________________________
 
 ---
 
-**Fertig?** Zähle deine Punkte mit der Lösungsdatei aus: `03_tests/loesungen/eingangstest_loesung.md`
+**Fertig?** Zähle deine Punkte mit der Lösungsdatei aus: `03_tests/eingangstest_loesung.md`

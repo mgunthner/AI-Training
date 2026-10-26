@@ -7,6 +7,7 @@
 - Der Abschlusstest prüft das ganze Training – Blöcke A bis F. Er ist der letzte Schritt des Fortgeschrittenen-Pfads.
 - Arbeite ohne Cheatsheets. Notiere deine Antworten (Papier oder Notizdatei), bevor du in die Lösung schaust.
 - Die Lösung steht getrennt: `03_tests/abschlusstest_loesung.md`. Schau erst hinein, wenn du fertig bist.
+- Praxisaufgaben und Sicherheits-Checks bewertest du mit dem [Selbstbewertungsraster](selbstbewertung.md) (Kriterium für Kriterium).
 - Kein Zeitlimit. Alle Beispiele enthalten nur erfundene Daten. Der Test ersetzt keine Rechtsberatung.
 - Nicht bestanden? Die Lösung zeigt dir die Themen zum Wiederholen; danach kannst du den Test erneut machen.
 

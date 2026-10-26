@@ -1,9 +1,9 @@
 # KI-Training: Roadmap für Einsteiger (Version 2)
 
 **Zielgruppe:** Menschen ohne Vorkenntnisse, die KI/LLMs im Alltag nutzen (meist kostenlose Pläne)
-**Format:** Self-Training mit Trainer-Support (Fragen jederzeit möglich)
+**Format:** Self-Training, Support über GitHub Issues (Fragen jederzeit möglich)
 **Sprache & Stil:** Deutsch, Du-Form, herstellerneutral
-**Material:** 1 Einführungs-Handout, 24 Cheatsheets (je ca. 1 DIN-A4-Seite), Wissenstests, Zusatzübungen, Trainer-Fragenvorlage (alles `.md`)
+**Material:** 1 Einführungs-Handout, 24 Cheatsheets (je ca. 1 DIN-A4-Seite), Wissenstests, Zusatzübungen, Fragenvorlage (alles `.md`)
 **Prinzip:** Erst verstehen, dann sicher nutzen, dann steuern, dann automatisieren.
 
 ---
@@ -13,8 +13,8 @@
 | Pfad | Für wen | Themen |
 |---|---|---|
 | **Schnellstart** (ca. 3 Std.) | Alle, Pflichtprogramm | 00, 01, 02, 03, 04, 05, 08, 12 + Kurztest |
-| **Standard** (ca. 1 Tag) | Regelmäßige Nutzer | 00–13, 22, 23 + Tests A–C, F |
-| **Fortgeschritten** (ca. 2 Tage) | Technikinteressierte, Power-User | alle 24 + alle Tests inkl. Abschlusstest |
+| **Standard** (ca. 1 Tag) | Regelmäßige Nutzer | 00–08, 10–13, 22, 23 + Tests A–C, F (in Test B entfallen die Fragen 14–15 zu Thema 09) |
+| **Fortgeschritten** (ca. 2 Tage) | Technikinteressierte, Power-User | alle 24 (inkl. 09, API-orientiert) + alle Tests inkl. Abschlusstest |
 
 ---
 
@@ -24,7 +24,7 @@
 1. **Cheatsheet lesen** (ca. 10 Min.)
 2. **Übung machen** (5–10 Min., steht im Cheatsheet)
 3. **Zusatzübungen** (optional, nach Bedarf)
-4. **Frage?** → Trainer fragen (siehe unten)
+4. **Frage?** → Issue im GitHub-Repo anlegen (siehe unten)
 5. **Test** nach jedem Block (siehe unten)
 
 Gesamtaufwand Standardpfad: ca. 8–10 Stunden, frei einteilbar.
@@ -42,7 +42,8 @@ ki-training/
 │   ├── eingangstest.md
 │   ├── test_A_fundament.md … test_F_abschluss.md
 │   ├── abschlusstest.md
-│   └── loesungen/  (je Test eine Lösungsdatei mit Begründung)
+│   ├── selbstbewertung.md  (Raster für die Selbstbewertung von Praxisaufgaben)
+│   └── *_loesung.md  (je Test eine Lösungsdatei mit Begründung, im selben Ordner)
 ├── 04_trainer/
 │   ├── fragenvorlage.md
 │   └── faq.md  (wächst mit den Fragen)
@@ -65,7 +66,7 @@ Gliederung:
 6. **Startklar machen:** Konto anlegen, Datenschutz-Einstellungen prüfen, Übungschat einrichten (dienstunabhängig)
 7. **Tests & Fortschritt:** Eingangstest, Blocktests, Abschlusstest, Bestehensgrenze, Wiederholung
 8. **Zusatzübungen:** Wofür, wie nutzen
-9. **Trainer fragen:** Wann, wie, was du beachten musst
+9. **Fragen stellen (GitHub Issues):** Wann, wie, was du beachten musst
 10. **Lerntipps:** Kleine Einheiten, direkt anwenden, Notizen, eigene Prompt-Bibliothek ab Tag 1
 11. **Mini-Glossar:** 10 Grundbegriffe (KI, LLM, Prompt, Token, Kontext, Halluzination, Modell, Plan, API, Agent)
 12. **Hinweise:** Anbieter ändern Funktionen und Limits; Inhalte sind allgemeine Orientierung, keine Rechtsberatung
@@ -92,6 +93,7 @@ Gliederung:
 - Fragen prüfen Verständnis und Handlungskompetenz, keine auswendig gelernten Zahlen
 - Keine Fragen zu Preisen, Limits oder Modellnamen (veralten schnell)
 - Jede Frage hat Lösung **mit Begründung** und Verweis auf das passende Cheatsheet
+- Praxisaufgaben bewertet man einheitlich mit dem Selbstbewertungsraster (`03_tests/selbstbewertung.md`): Kriterium für Kriterium, im Zweifel strenger
 - Lösungen liegen in getrennten Dateien, damit man nicht aus Versehen spoilert
 - Bei nicht bestandenem Test: Liste der zu wiederholenden Themen, danach Wiederholung möglich
 - Optional: Teilnahmebestätigung als Vorlage (keine formale Zertifizierung)
@@ -104,16 +106,15 @@ Gliederung:
 - Sicherheitsregel: Nur erfundene oder anonymisierte Daten verwenden
 - Optionale Transfer-Aufgabe pro Block: „Wende das Gelernte auf deinen eigenen Alltag an“
 
-### Trainer-Support
-- **Fragenvorlage** (`fragenvorlage.md`):
+### Support über GitHub Issues
+- **Fragenvorlage** (`fragenvorlage.md`): Teilnehmende legen ein **Issue** im GitHub-Repo an und füllen die Vorlage dort ein:
   - Thema/Cheatsheet-Nr.
   - Was wolltest du erreichen?
   - Was hast du versucht? (Prompt/Ergebnis **anonymisiert** einfügen)
   - Wo hängst du?
   - Dringlichkeit
-- **Wichtig:** Keine sensiblen oder personenbezogenen Daten in Fragen an den Trainer
-- **FAQ** (`faq.md`): Häufige Fragen werden gesammelt, anonymisiert beantwortet und in die Cheatsheets zurückgespielt
-- Der Trainer ist den Teilnehmenden persönlich bekannt: Es werden keine Kontaktdaten in die Materialien aufgenommen.
+- **Wichtig:** Keine sensiblen oder personenbezogenen Daten in Issues – auch die Vorlage daran erinnern.
+- **FAQ** (`faq.md`): Häufige Fragen werden aus den Issues gesammelt, anonymisiert beantwortet und in die Cheatsheets zurückgespielt. Gelöste Issues schließen und als Referenz behalten.
 
 ### Lernfortschritt
 - Checkliste in `lernfortschritt.md`: je Thema Haken für „gelesen / geübt / Test bestanden“
@@ -256,8 +257,9 @@ Gliederung:
   - KI-Texte nie ungeprüft weitergeben
 - **Übung:** Eine KI-Antwort mit Quellenangaben auf Existenz prüfen.
 
-### 09 – Temperature & Sampling
+### 09 – Temperature & Sampling (nur Fortgeschritten-Pfad)
 - **Lernziel:** Verstehen, warum Antworten variieren, und wie man das steuert.
+- **Einordnung:** Der Regler existiert nur in der API/Entwickleroberfläche (Thema 14). Im normalen Chat genügt der Ersatzweg per Prompt – deshalb gehört das Thema bewusst nur in den Fortgeschritten-Pfad.
 - **Inhalte:**
   - Temperature: niedrig = vorhersagbar/sachlich, hoch = kreativ/zufälliger
   - Top-p kurz erklärt (Auswahl aus wahrscheinlichsten Wörtern)
@@ -342,6 +344,8 @@ Gliederung:
 
 ## Block E – Agentische Systeme
 
+**Framing (zeitresistent halten):** Block E lehrt **Muster**, nicht Produktbegriffe: Aufgaben an KI delegieren, Systeme standardisiert anbinden, wiederkehrende Anleitungen wiederverwenden, Arbeit auf mehrere Helfer verteilen, Zweitmeinungen einholen, alles absichern. Die Begriffe Agents, MCP, Skills, Subagents, Advisor sind heutige Beispiele für diese Muster – Namen und Funktionen ändern sich je nach Anbieter schnell. In jedem Cheatsheet steht deshalb: Das Prinzip zählt, das Kürzel nicht. Begriffe, die an ein bestimmtes Ökosystem gebunden sind, werden nur als Beispiele genannt, nie als Empfehlung.
+
 ### 16 – Agents
 - **Lernziel:** Verstehen, was einen Agenten vom Chatbot unterscheidet.
 - **Inhalte:**
@@ -356,22 +360,23 @@ Gliederung:
 ### 17 – MCP (Model Context Protocol)
 - **Lernziel:** Verstehen, wie KI standardisiert an Programme und Daten angebunden wird.
 - **Inhalte:**
-  - Idee: „USB-C für KI“, ein einheitlicher Stecker zwischen KI und Diensten
-  - Bausteine: Client (KI-App), Server (Anbindung), Tools/Ressourcen/Prompts
+  - Muster dahinter: eine **einheitliche, offene Anbindung** zwischen KI und Diensten statt vieler Einzellösungen (Bild: „USB-C für KI“)
+  - MCP als heutiger, offener Standard dafür; Bausteine: Client (KI-App), Server (Anbindung), Tools/Ressourcen/Prompts
   - Beispiele: Kalender, Dateien, Datenbanken, Projektverwaltung
   - Vorteile: Wiederverwendbar, weniger Einzellösungen
-  - **Sicherheit:** Nur vertrauenswürdige Server, Rechte minimal halten (Lesen vor Schreiben), Berechtigungen prüfen, Drittanbieter-Server können Angriffsfläche sein (Verweis auf 12)
+  - **Sicherheit:** Nur vertrauenswürdige Anbindungen, Rechte minimal halten (Lesen vor Schreiben), Berechtigungen prüfen, Anbindungen Dritter können Angriffsfläche sein (Verweis auf 12)
+  - Zeitresistenz-Hinweis: Der Begriff kann sich ändern; wichtig ist das Muster „standardisierte Anbindung mit minimalen Rechten“
 - **Übung:** Für einen Anwendungsfall festlegen, welche Zugriffe wirklich nötig sind.
 
 ### 18 – Skills
 - **Lernziel:** Wiederverwendbare Fähigkeiten und Arbeitsanleitungen kennen.
 - **Inhalte:**
-  - Skill = Paket aus Anleitung (und ggf. Vorlagen/Skripten) für eine bestimmte Aufgabe, das bei Bedarf geladen wird
-  - Unterschied zu: Prompt (einmalig), Projekt-Anweisung (dauerhaft für ein Projekt), MCP (Anbindung an Systeme)
+  - Muster dahinter: ein **Wissenspaket aus Anleitung (und ggf. Vorlagen/Skripten)** für eine bestimmte Aufgabe, das bei Bedarf geladen wird – „Skills“ ist der heutige Begriff dafür
+  - Unterschied zu: Prompt (einmalig), Projekt-Anweisung (dauerhaft für ein Projekt), Anbindung an Systeme (Thema 17)
   - Beispiele: Berichtsvorlage, Schreibstil des Unternehmens, Auswertungsroutine
   - Aufbau-Grundidee: Beschreibung (wann nutzen), Anleitung (wie), Beispiele
-  - Sicherheit: Nur Skills aus vertrauenswürdigen Quellen, Inhalt vorher lesen
-  - Begriffe unterscheiden sich je nach Anbieter (z. B. GPTs, Gems, Skills, Custom Agents)
+  - Sicherheit: Nur Pakete aus vertrauenswürdigen Quellen, Inhalt vorher lesen
+  - Zeitresistenz-Hinweis: Anbieter nennen solche Pakete unterschiedlich (z. B. GPTs, Gems, Skills, Custom Agents) – das Prinzip ist dasselbe
 - **Übung:** Eine wiederkehrende Aufgabe als Mini-Anleitung (Skill-Entwurf) schreiben.
 
 ### 19 – Subagents
@@ -453,7 +458,7 @@ Gliederung:
 ## Festgelegte Entscheidungen
 - Herstellerneutral
 - Du-Form
-- Self-Training mit Trainer-Support (Trainer privat bekannt, keine Kontaktdaten im Material)
+- Self-Training, Support über GitHub Issues (keine privaten Kontaktdaten im Material)
 - Einführungs-Handout, Wissenstests, Zusatzübungen
 
 ## Noch offen (klären wir vor der Umsetzung)

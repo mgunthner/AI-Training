@@ -100,7 +100,7 @@ Denke an einen echten Fall aus deinem Alltag: ein Newsletter, eine Rechnung, ein
 
 **Aufgabe 4:** b) ist am sichersten: Das fremde Dokument wird isoliert geprüft, eigene Daten haben keinen Kontakt mit potenziell manipuliertem Inhalt. c) ist der gute Kompromiss für den Alltag, wenn Trennung unpraktisch ist. a) ist riskant: Eine versteckte Anweisung im PDF könnte die KI dazu bringen, die Kundin-Daten auszugeben oder in eine Antwort einzubauen.
 
-**Aufgabe 5:** Beispiel-Plan: (1) Verdächtige Antwort nicht ausführen, keine Links klicken, keine Anhänge öffnen. (2) Chat sofort pausieren/neuen Chat starten. (3) Zugriffe in den Einstellungen prüfen und widerrufen. (4) Betroffene Konten (Mail, Kalender) auf ungewöhnliche Aktionen prüfen. (5) Vorfall an IT/Trainer/Verantwortliche melden. Ergänze nach deinen eigenen Diensten.
+**Aufgabe 5:** Beispiel-Plan: (1) Verdächtige Antwort nicht ausführen, keine Links klicken, keine Anhänge öffnen. (2) Chat sofort pausieren/neuen Chat starten. (3) Zugriffe in den Einstellungen prüfen und widerrufen. (4) Betroffene Konten (Mail, Kalender) auf ungewöhnliche Aktionen prüfen. (5) Vorfall an IT/verantwortliche Person melden. Ergänze nach deinen eigenen Diensten.
 
 ---
 

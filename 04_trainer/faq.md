@@ -1,6 +1,6 @@
 # FAQ – Häufige Fragen
 
-Diese Datei wächst mit den Fragen. Jede Antwort ist anonymisiert und bezieht sich auf die Cheatsheets. Wenn hier deine Frage beantwortet ist, brauchst du den Trainer nicht mehr zu fragen.
+Diese Datei wächst mit den Fragen aus den GitHub Issues. Jede Antwort ist anonymisiert und bezieht sich auf die Cheatsheets. Wenn hier deine Frage beantwortet ist, brauchst du kein Issue mehr anzulegen.
 
 ---
 
@@ -65,4 +65,4 @@ A: Schnellstart ca. 3 Std., Standard ca. 8–10 Std., Fortgeschritten ca. 2 Tage
 A: Genau deshalb prüfen: Gegenfrage stellen, zweite Quelle (oder Fachperson) befragen, nicht ungeprüft weitergeben. Bei Beruflichem gilt zusätzlich: Arbeitgeber-Regeln und Fachvorgaben beachten. Grundlage: Cheatsheet 08, 22.
 
 **F: Meine Frage ist hier nicht dabei.**
-A: Nutze die Vorlage in `04_trainer/fragenvorlage.md`. Deine Frage (anonymisiert) kann später hier in die FAQ aufgenommen werden – so helfen sich Teilnehmer gegenseitig.
+A: Lege ein Issue im GitHub-Repo an – am besten nach der Vorlage in `04_trainer/fragenvorlage.md`. Deine Frage (anonymisiert) kann später hier in die FAQ aufgenommen werden – so helfen sich Teilnehmer gegenseitig.

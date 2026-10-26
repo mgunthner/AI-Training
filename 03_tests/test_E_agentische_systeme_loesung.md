@@ -2,6 +2,7 @@
 
 **Bestanden ab 75 %:** 21 von 28 Punkten
 Schau erst hierher, wenn du den Test fertig bearbeitet hast.
+Praxisaufgaben und Sicherheits-Checks bewertest du mit dem [Selbstbewertungsraster](selbstbewertung.md).
 
 ---
 

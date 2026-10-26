@@ -2,6 +2,7 @@
 
 **Bestanden ab 75 %:** 9 von 11 Punkten
 Schau erst hierher, wenn du den Test fertig bearbeitet hast.
+Praxisaufgaben bewertest du mit dem [Selbstbewertungsraster](selbstbewertung.md).
 
 ---
 

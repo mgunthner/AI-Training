@@ -7,6 +7,7 @@
 - Arbeite ohne Cheatsheets. So siehst du, was du wirklich behalten hast.
 - Notiere deine Antworten (Papier oder Notizdatei), bevor du in die Lösung schaust.
 - Die Lösung steht getrennt: `03_tests/test_F_abschluss_loesung.md`. Schau erst hinein, wenn du fertig bist.
+- Praxisaufgaben bewertest du mit dem [Selbstbewertungsraster](selbstbewertung.md) (Kriterium für Kriterium).
 - Kein Zeitlimit. Alle Beispiele enthalten nur erfundene Daten. Dieser Test ersetzt keine Rechtsberatung.
 
 ---

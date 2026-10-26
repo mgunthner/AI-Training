@@ -1,5 +1,7 @@
 # 09 – Temperature & Sampling
 
+**Einordnung:** Dieses Thema gehört zum **Fortgeschritten-Pfad**. Der Regler existiert nur in der API oder Entwickleroberfläche (Thema 14). Im normalen Chat steuerst du Sachlichkeit und Vielfalt per Prompt – das genügt für den Alltag (Schnellstart- und Standard-Pfad).
+
 **Definition:** **Temperature** ist ein Regler, der bestimmt, wie vorhersagbar oder zufällig ein Sprachmodell seine Wörter wählt. **Sampling** heißt: Das Modell zieht das nächste Textstück aus mehreren möglichen Kandidaten.
 
 > **Merksatz:** Niedrig für Fakten, höher für Ideen. Aber niedrig heißt nicht „richtig“.

@@ -2,6 +2,7 @@
 
 **Bestanden ab 75 %:** 9 von 11 Punkten (8 Punkte zählen nicht als Bestehen, da 8/11 ≈ 73 %)
 Schau erst hierher, wenn du den Test fertig bearbeitet hast.
+Praxisaufgaben und Sicherheits-Checks bewertest du mit dem [Selbstbewertungsraster](selbstbewertung.md).
 
 ---
 

@@ -6,7 +6,9 @@
 - Der Test zeigt dir, was sitzt und was du wiederholen solltest. Er ist kein Zeugnis.
 - Arbeite ohne Cheatsheets. So siehst du, was du wirklich behalten hast.
 - Notiere deine Antworten (Papier oder Notizdatei), bevor du in die Lösung schaust.
-- Die Lösung steht getrennt: `03_tests/loesungen/test_B_gute_ergebnisse_loesung.md`. Schau erst hinein, wenn du fertig bist.
+- Die Lösung steht getrennt: `03_tests/test_B_gute_ergebnisse_loesung.md`. Schau erst hinein, wenn du fertig bist.
+- Praxisaufgaben und Sicherheits-Checks bewertest du mit dem [Selbstbewertungsraster](selbstbewertung.md) (Kriterium für Kriterium).
+- **Hinweis Standard-Pfad:** Die Fragen 14–15 behandeln Thema 09 (Temperature & Sampling), das zum Fortgeschritten-Pfad gehört. Wenn du den Standard-Pfad belegst, lass die Fragen 14–15 aus: Dann zählst du von 26 Punkten und bestehst ab 20.
 - Kein Zeitlimit. Alle Beispiele enthalten nur erfundene Daten.
 
 ---

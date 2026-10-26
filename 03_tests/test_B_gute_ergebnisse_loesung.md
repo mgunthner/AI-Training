@@ -1,7 +1,8 @@
 # Lösung Test B – Gute Ergebnisse (Themen 05–11)
 
-**Bestanden ab 75 %:** 21 von 28 Punkten
+**Bestanden ab 75 %:** 21 von 28 Punkten · **Standard-Pfad (ohne Fragen 14–15):** 20 von 26 Punkten
 Schau erst hierher, wenn du den Test fertig bearbeitet hast.
+Praxisaufgaben und Sicherheits-Checks bewertest du mit dem [Selbstbewertungsraster](selbstbewertung.md).
 
 ---
 

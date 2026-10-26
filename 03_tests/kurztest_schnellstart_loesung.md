@@ -2,6 +2,7 @@
 
 **Bestanden ab 75 %:** 15 von 20 Punkten
 Schau erst hierher, wenn du den Test fertig bearbeitet hast.
+Praxisaufgaben und Sicherheits-Checks bewertest du mit dem [Selbstbewertungsraster](selbstbewertung.md).
 
 ---
 
@@ -74,7 +75,7 @@ Cheatsheet: `01_cheatsheets/12_prompt_injection.md`
 
 **Frage 14 – Musterlösung (2 P):**
 (a) 1 P für zwei Warnsignale, z. B.: unbekannter Link, Aufforderung „sofort zu bezahlen“, Verhalten, das nicht zur Aufgabe passt, ungewöhnliche Dringlichkeit.
-(b) 1 P: Nicht klicken, nicht bezahlen; Chat stoppen; Zugriffe prüfen und bei Bedarf widerrufen; Vorfall dokumentieren und melden (IT/Trainer). Zwei konkrete Schritte genügen.
+(b) 1 P: Nicht klicken, nicht bezahlen; Chat stoppen; Zugriffe prüfen und bei Bedarf widerrufen; Vorfall dokumentieren und melden (IT/verantwortliche Person). Zwei konkrete Schritte genügen.
 
 **Frage 15 – Richtig (1 P):** Aktionen mit Folgen brauchen immer deine Freigabe. Technische Schutzmechanismen (Filter, Guardrails) helfen, ersetzen die Bestätigung aber nicht – es gibt keinen vollständigen technischen Schutz.
 

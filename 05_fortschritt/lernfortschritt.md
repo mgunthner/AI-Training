@@ -44,7 +44,7 @@ Hier siehst du, wo du im Training stehst. Kopiere die Datei und hake ab, indem d
 | 06 | Prompt-Techniken | St | ☐ | ☐ |
 | 07 | Vorwissen & Kontext | St | ☐ | ☐ |
 | 08 | Halluzinationen & Faktencheck | S | ☐ | ☐ |
-| 09 | Temperature & Sampling | St | ☐ | ☐ |
+| 09 | Temperature & Sampling | F | ☐ | ☐ |
 | 10 | Denkaufwand (Reasoning) | St | ☐ | ☐ |
 | 11 | Werkzeuge der KI (Tool Use) | St | ☐ | ☐ |
 
@@ -99,6 +99,8 @@ Bestanden ist ein Test ab **75 %**. Den Eingangstest wertest du nicht, er zeigt 
 | Test F: Abschluss | 22–24 | St | | | ☐ |
 | Abschlusstest | alle Blöcke | F | | | ☐ |
 
+Hinweis: **Test B** behandelt auch Thema 09, das nur im Fortgeschritten-Pfad vorkommt. Standard-Pfad: Fragen 14–15 auslassen, dann Bestehensgrenze 20 von 26 Punkten.
+
 **Themen zum Wiederholen:**
 
 - ______________________________
@@ -147,7 +149,7 @@ Denk daran: Speichere nur **erfundene oder anonymisierte** Inhalte.
 
 ## 6. Notizen
 
-| Thema | Zusatzübungen gemacht? | Meine Notiz / Frage an den Trainer |
+| Thema | Zusatzübungen gemacht? | Meine Notiz / Frage (→ GitHub Issue) |
 |---|---|---|
 | | ☐ | |
 | | ☐ | |
@@ -155,4 +157,4 @@ Denk daran: Speichere nur **erfundene oder anonymisierte** Inhalte.
 | | ☐ | |
 | | ☐ | |
 
-*Fragen an den Trainer: Nutze die Vorlage in `04_trainer/fragenvorlage.md` und sende keine sensiblen oder personenbezogenen Daten.*
+*Offene Frage? Lege ein Issue im GitHub-Repo an (Vorlage: `04_trainer/fragenvorlage.md`). Issues sind öffentlich – keine sensiblen oder personenbezogenen Daten, Inhalte vorher anonymisieren.*
