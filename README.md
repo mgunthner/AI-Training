@@ -27,6 +27,10 @@ Selbststudium-Training, um KI-Chatbots **sicher, sinnvoll und kostenbewusst** zu
 - **Tests:** Eingangstest, Kurztest Schnellstart, Blocktests A–F und Abschlusstest – jeweils mit separater Lösungsdatei.
 - **Trainer:** Fragenvorlage und FAQ verfügbar.
 
+## Lizenz
+
+Dieses Material steht unter der [CC BY-NC-SA 4.0](LICENSE) (Namensnennung – Nicht-kommerziell – Weitergabe unter gleichen Bedingungen 4.0 International): Nicht-kommerzielle Nutzung, Bearbeitung und Weitergabe mit Namensnennung erlaubt; Bearbeitungen müssen unter derselben Lizenz weitergegeben werden.
+
 ## Fragen?
 
 Wenn du bei einer Übung hängst, frag deinen Trainer – am besten nach der Fragenvorlage aus `04_trainer/fragenvorlage.md` und dem FAQ in `04_trainer/faq.md`. Anonymisiere Prompts und Ergebnisse, bevor du sie schickst.
