@@ -27,17 +27,18 @@ Du lernst im Selbststudium, in deinem Tempo. Pro Thema (ca. 25–30 Min.):
 | Standard | ca. 1 Tag | regelmäßige Nutzer |
 | Fortgeschritten | ca. 2 Tage | Technikinteressierte |
 
-Die genauen Themen je Pfad findest du in der Roadmap. Du kannst jederzeit weiter vertiefen.
+Die genauen Themen je Pfad findest du in der [Roadmap](KI-Training_Roadmap.md). Du kannst jederzeit weiter vertiefen.
 
-## 4. Materialübersicht
+## 4. Materialübersicht (in diesem Repo)
 | Ordner / Datei | Inhalt |
 |---|---|
 | `00_einfuehrung_handout.md` | dieses Handout |
 | `01_cheatsheets/` | 24 Cheatsheets, je ca. eine Seite |
 | `02_zusatzuebungen/` | Extra-Aufgaben zu den Themen 01–23 |
-| `03_tests/` | Eingangstest, Blocktests, Abschlusstest, Lösungen getrennt |
+| `03_tests/` | Eingangstest, Kurztest, Blocktests A–F, Abschlusstest, Lösungen getrennt |
 | `04_trainer/` | Fragenvorlage und FAQ |
-| `05_fortschritt/` | Checkliste zum Abhaken |
+| `05_fortschritt/lernfortschritt.md` | Checkliste zum Abhaken |
+| `KI-Training_Roadmap.md` | Lernpfade und Themenplan im Detail |
 
 Arbeite die Themen in der Reihenfolge der Nummern durch. Sie bauen aufeinander auf.
 
@@ -58,9 +59,10 @@ Tipp: Nutze für Übungen nur **erfundene oder anonymisierte Daten**, z. B. „P
 
 ## 7. Tests und Fortschritt
 Die Tests sind kein Zeugnis, sondern ein Spiegel: Sie zeigen dir, was sitzt und was du wiederholen solltest.
-- **Eingangstest** (10 Fragen): vor dem Start, nicht bewertet. Er zeigt deinen Ausgangspunkt.
-- **Blocktests A–F:** nach jedem Block
-- **Abschlusstest:** am Ende, mischt Wissen und Praxis
+- **Eingangstest** (10 Fragen): vor dem Start, nicht bewertet. Er zeigt deinen Ausgangspunkt. (`03_tests/eingangstest.md`)
+- **Blocktests:** nach jedem Block – Test A (`03_tests/test_A_fundament.md`), Test B (`03_tests/test_B_gute_ergebnisse.md`), Test C (`03_tests/test_C_risiken.md`), Test D (`03_tests/test_D_technik_kosten.md`), Test E (`03_tests/test_E_agentische_systeme.md`), Test F (`03_tests/test_F_abschluss.md`)
+- **Kurztest Schnellstart:** nach dem Schnellstart-Pfad (`03_tests/kurztest_schnellstart.md`)
+- **Abschlusstest:** am Ende, mischt Wissen und Praxis (`03_tests/abschlusstest.md`)
 - **Bestanden** ab 75 %. Du wertest selbst aus, mit der Lösungsdatei. Schau erst in die Lösung, wenn du fertig bist.
 - **Nicht bestanden?** Die Lösung nennt dir die Themen zum Wiederholen. Danach kannst du den Test erneut machen.
 
@@ -110,6 +112,6 @@ Häufige Fragen landen anonymisiert in der FAQ.
 - [ ] Ich habe meinen Lernpfad gewählt.
 - [ ] Ich habe den Eingangstest gemacht.
 
-**Los geht's mit Cheatsheet 01: Was ist KI?**
+**Los geht's mit Cheatsheet 01: [Was ist KI?](01_cheatsheets/01_was_ist_ki.md)**
 
 *Stand: Oktober 2026*
