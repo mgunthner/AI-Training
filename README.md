@@ -28,7 +28,7 @@ Wir wünschen uns dafür etwas zurück – aber kein Geld:
 | Language / Sprache | Material | PDF downloads |
 |---|---|---|
 | Deutsch | `de/` (`de/README`) | [`pdf/de/`](pdf/de/) |
-| English | `en/` (`en/README`) *(in progress / in Arbeit)* | [`pdf/en/`](pdf/en/) *(in progress / in Arbeit)* |
+| English | `en/` (`en/README`) | [`pdf/en/`](pdf/en/) *(in progress / in Arbeit)* |
 
 Other languages: Each language gets its own folder with a two-letter language code (`<langcode>/`), mirroring the structure of `de/`. PDFs are located under `pdf/<langcode>/`.
 
