@@ -24,6 +24,6 @@ PDF downloads for each language are available under [`../pdf/<language-code>/`](
 
 ## License
 
-This material is licensed under [CC BY-NC-SA 4.0](../LICENSE) (Attribution – NonCommercial – ShareAlike 4.0 International).
+This material is licensed under [CC BY-NC-SA 4.0](../LICENSE) (Attribution – NonCommercial – ShareAlike 4.0 International): Non-commercial use, adaptation and sharing with attribution is allowed; adaptations must be shared under the same license. Commercial use – including selling the material or using it in paid trainings – requires separate permission from the authors.
 
 *Stand: Oktober 2026*

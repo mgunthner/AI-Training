@@ -4,7 +4,7 @@ Selbststudium-Training, um KI-Chatbots **sicher, sinnvoll und kostenbewusst** zu
 
 ## Was dieses Training wert ist
 
-Ein vergleichbares KI-Training für Einsteiger – begleitet, mit Tests und persönlicher Betreuung – würde marktüblich **etwa 250–350 € pro Person** kosten. Dieses Material bekommst du hier **komplett kostenlos**, unter einer freien Lizenz. Das ist möglich, weil viele Beteiligte ihre Zeit geschenkt haben.
+Ein vergleichbares KI-Training für Einsteiger – begleitet, mit Tests und persönlicher Betreuung – würde marktüblich **etwa 250–350 € pro Person** kosten. Dieses Material bekommst du hier **komplett kostenlos**, unter einer offenen Lizenz. Sie ist ausdrücklich auf nicht-kommerzielle Nutzung beschränkt: Jeder darf dieses Material frei nutzen, weitergeben und bearbeiten – aber niemand darf es verkaufen oder damit Geld verdienen. Das ist möglich, weil viele Beteiligte ihre Zeit geschenkt haben.
 
 Wir wünschen uns dafür etwas zurück – aber kein Geld:
 
@@ -41,7 +41,7 @@ Wir wünschen uns dafür etwas zurück – aber kein Geld:
 
 ## Lizenz
 
-Dieses Material steht unter der [CC BY-NC-SA 4.0](../LICENSE) (Namensnennung – Nicht-kommerziell – Weitergabe unter gleichen Bedingungen 4.0 International): Nicht-kommerzielle Nutzung, Bearbeitung und Weitergabe mit Namensnennung erlaubt; Bearbeitungen müssen unter derselben Lizenz weitergegeben werden.
+Dieses Material steht unter der [CC BY-NC-SA 4.0](../LICENSE) (Namensnennung – Nicht-kommerziell – Weitergabe unter gleichen Bedingungen 4.0 International): Nicht-kommerzielle Nutzung, Bearbeitung und Weitergabe mit Namensnennung ist erlaubt; Bearbeitungen müssen unter derselben Lizenz weitergegeben werden. Kommerzielle Nutzung – etwa das Verkaufen des Materials oder der Einsatz in bezahlten Trainings – erfordert eine gesonderte Erlaubnis der Autoren.
 
 ## Fragen?
 

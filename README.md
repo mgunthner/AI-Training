@@ -6,9 +6,9 @@ Selbststudium-Training, um KI-Chatbots **sicher, sinnvoll und kostenbewusst** zu
 
 ## What this training is worth / Was dieses Training wert ist
 
-A comparable AI training for beginners – guided, with tests and personal support – would typically cost **around 250–350 € per person**. You get this material here **completely free of charge**, under a free license. This is possible because many contributors have donated their time.
+A comparable AI training for beginners – guided, with tests and personal support – would typically cost **around 250–350 € per person**. You get this material here **completely free of charge**, under an open license. It is explicitly licensed for non-commercial use only: anyone may use, share and adapt this material for free – but no one may sell it or profit from it. This is possible because many contributors have donated their time.
 
-Ein vergleichbares KI-Training für Einsteiger – begleitet, mit Tests und persönlicher Betreuung – würde marktüblich **etwa 250–350 € pro Person** kosten. Dieses Material bekommst du hier **komplett kostenlos**, unter einer freien Lizenz. Das ist möglich, weil viele Beteiligte ihre Zeit geschenkt haben.
+Ein vergleichbares KI-Training für Einsteiger – begleitet, mit Tests und persönlicher Betreuung – würde marktüblich **etwa 250–350 € pro Person** kosten. Dieses Material bekommst du hier **komplett kostenlos**, unter einer offenen Lizenz. Sie ist ausdrücklich auf nicht-kommerzielle Nutzung beschränkt: Jeder darf dieses Material frei nutzen, weitergeben und bearbeiten – aber niemand darf es verkaufen oder damit Geld verdienen. Das ist möglich, weil viele Beteiligte ihre Zeit geschenkt haben.
 
 We ask for something in return – but not money:
 
@@ -42,9 +42,9 @@ Zu jedem Material gibt es zusätzlich PDF-Dateien zum Herunterladen – praktisc
 
 ## License / Lizenz
 
-This material is licensed under [CC BY-NC-SA 4.0](LICENSE) (Attribution – NonCommercial – ShareAlike 4.0 International).
+This material is licensed under [CC BY-NC-SA 4.0](LICENSE) (Attribution – NonCommercial – ShareAlike 4.0 International): Non-commercial use, adaptation and sharing with attribution is allowed; adaptations must be shared under the same license. Commercial use – including selling the material or using it in paid trainings – requires separate permission from the authors.
 
-Dieses Material steht unter der [CC BY-NC-SA 4.0](LICENSE) (Namensnennung – Nicht-kommerziell – Weitergabe unter gleichen Bedingungen 4.0 International).
+Dieses Material steht unter der [CC BY-NC-SA 4.0](LICENSE) (Namensnennung – Nicht-kommerziell – Weitergabe unter gleichen Bedingungen 4.0 International): Nicht-kommerzielle Nutzung, Bearbeitung und Weitergabe mit Namensnennung ist erlaubt; Bearbeitungen müssen unter derselben Lizenz weitergegeben werden. Kommerzielle Nutzung – etwa das Verkaufen des Materials oder der Einsatz in bezahlten Trainings – erfordert eine gesonderte Erlaubnis der Autoren.
 
 ## Questions? / Fragen?
 
