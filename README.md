@@ -13,7 +13,7 @@ Weitere Sprachen: Jede Sprache bekommt einen eigenen Ordner mit zweistelligem Sp
 
 ## Downloads (PDF)
 
-Zu jedem Material gibt es zusätzlich PDF-Dateien zum Herunterladen – praktisch zum Ausdrucken oder Offline-Lernen. Sie liegen unter `pdf/<sprachcode>/` und werden mit dem Skript `scripts/build_pdfs.ps1` (pandoc) erzeugt. Die PDF-Datei trägt den gleichen Dateinamen wie das zugehörige Markdown-Dokument, nur mit der Endung `.pdf` – deshalb sind alle Verweise in den Unterlagen ohne Dateiendung geschrieben.
+Zu jedem Material gibt es zusätzlich PDF-Dateien zum Herunterladen – praktisch zum Ausdrucken oder Offline-Lernen. Sie liegen unter `pdf/<sprachcode>/`. Die PDF-Datei trägt den gleichen Dateinamen wie das zugehörige Markdown-Dokument, nur mit der Endung `.pdf` – deshalb sind alle Verweise in den Unterlagen ohne Dateiendung geschrieben.
 
 ## Lizenz
 
