@@ -81,6 +81,14 @@ Hier siehst du, wo du im Training stehst. Kopiere die Datei und hake ab, indem d
 | 23 | Alltagsworkflows & Prompt-Bibliothek | St | ☐ | ☐ |
 | 24 | Glossar & Weiterlernen | F | ☐ | – |
 
+### Capstone (nach dem Abschlusstest)
+
+| Nr. | Thema | Pfad | gelesen | geübt |
+|---|---|---|---|---|
+| 25 | Capstone: Mein persönlicher KI-Workflow-Assistent | St (optional), F (empfohlen) | ☐ | ☐ |
+
+„Gelesen" = Projektanleitung und Cheatsheet 25 durchgearbeitet, „geübt" = Projekt abgeschlossen und mit der Capstone-Checkliste (`06_capstone/checkliste`) bewertet.
+
 ---
 
 ## 3. Tests
@@ -100,6 +108,8 @@ Bestanden ist ein Test ab **75 %**. Den Eingangstest wertest du nicht, er zeigt 
 | Abschlusstest | alle Blöcke | F | | | ☐ |
 
 Hinweis: **Test B** behandelt auch Thema 09, das nur im Fortgeschritten-Pfad vorkommt. Standard-Pfad: Fragen 14–15 auslassen, dann Bestehensgrenze 20 von 26 Punkten.
+
+**Capstone:** Kein eigener Test – das Abschlussprojekt bewertest du mit der Capstone-Checkliste (`06_capstone/checkliste`), Bestehensgrenze **17 von 24 Punkten**. Voraussetzung: Abschlusstest bestanden.
 
 **Themen zum Wiederholen:**
 
@@ -142,6 +152,7 @@ Sammle gelungene Prompts ab Tag 1 in einer eigenen Notizdatei (Vorlage in Cheats
 - ☐ Die ersten 3 Prompts gesammelt
 - ☐ 10 Prompts gesammelt
 - ☐ Prompts mit Titel, Zweck und Beispiel-Ergebnis versehen
+- ☐ Bibliothek ins Capstone überführt (`06_capstone/projektanleitung`) – optional
 
 Denk daran: Speichere nur **erfundene oder anonymisierte** Inhalte.
 

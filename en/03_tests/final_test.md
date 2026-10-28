@@ -190,3 +190,4 @@ Count your points together with the solutions file.
 - **35–46 points:** passed
 - **0–34 points:** not yet passed. The solutions show you which blocks you should review. Afterwards you can take the test again.
 - Optional: confirmation of participation as a template (no formal certification).
+- Passed? Then you can continue: with the capstone (`06_capstone/project_instructions`) – your own final project.

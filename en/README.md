@@ -31,12 +31,14 @@ In return, we ask for something – but not money:
 | `03_tests/`                   | Entrance test and block tests incl. solutions (separate) |
 | `04_trainer/`                 | Question template and FAQ                               |
 | `05_progress/`                | Checklist to tick off                                   |
+| `06_capstone/`                | Capstone project: project instructions, example portfolio, checklist |
 | `AI-Training_Roadmap`    | Learning paths and topic plan in detail                 |
 
 ## Current status of the material
 
 - **All 24 topics** (blocks A–F) are fully worked out: cheatsheets 01–24 and extra exercises 01–23.
 - **Tests:** Entrance test, Quick test: quick start, block tests A–F and final test – each with a separate solutions file.
+- **Capstone:** Optional in the Standard path, recommended in the Advanced path – after passing the final test (`06_capstone/`).
 - **Support:** Question template (GitHub issues) and FAQ available.
 
 ## License

@@ -57,6 +57,9 @@ A: No, they are voluntary. They help when a topic is difficult for you or you wa
 **Q: How much time does the whole training take?**
 A: Quick start approx. 3 hours, Standard approx. 8–10 hours, Advanced approx. 2 days – freely schedulable in units of 25–30 minutes per topic. Basis: `AI-Training_Roadmap`.
 
+**Q: What do I do after passing the final test?**
+A: Best thing: the capstone (`06_capstone/project_instructions`) – a personal final project with your own prompt library, safety concept and agent-lite design. Optional in the Standard path, recommended in the Advanced path. It is not graded by a test but with the capstone checklist (`06_capstone/checklist`). Basis: Cheatsheet 25.
+
 ---
 
 ## Other

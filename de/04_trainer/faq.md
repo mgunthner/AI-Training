@@ -57,6 +57,9 @@ A: Nein, sie sind freiwillig. Sie helfen, wenn dir ein Thema schwerfällt oder d
 **F: Wie viel Zeit braucht das ganze Training?**
 A: Schnellstart ca. 3 Std., Standard ca. 8–10 Std., Fortgeschritten ca. 2 Tage – frei einteilbar in Einheiten von 25–30 Minuten pro Thema. Grundlage: `KI-Training_Roadmap`.
 
+**F: Was mache ich, nachdem ich den Abschlusstest bestanden habe?**
+A: Am besten das Capstone (`06_capstone/projektanleitung`): ein persönliches Abschlussprojekt mit eigener Prompt-Bibliothek, Sicherheitskonzept und Agent-Lite-Entwurf. Optional im Standard-Pfad, empfohlen im Fortgeschrittenen-Pfad. Bewertet wird es nicht per Test, sondern mit der Capstone-Checkliste (`06_capstone/checkliste`). Grundlage: Cheatsheet 25.
+
 ---
 
 ## Weiteres

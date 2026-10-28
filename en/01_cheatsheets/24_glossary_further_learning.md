@@ -94,6 +94,7 @@ Pick three terms from the glossary that you still feel unsure about and explain 
 ## Next
 - Extra exercises: none (topic 24 is the glossary)
 - Test: Test F (Final) and the final test
+- After that: capstone (`06_capstone/project_instructions`) – your final project
 - Related: all cheatsheets – the glossary links the terms to their topics
 
 *As of: October 2026*

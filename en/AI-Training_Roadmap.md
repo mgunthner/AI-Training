@@ -14,8 +14,8 @@ Choose the path that suits you. You can extend or switch paths at any time.
 | Path | For whom | Topics | Effort |
 |---|---|---|---|
 | **Quick start** | Everyone – mandatory part | 00, 01, 02, 03, 04, 05, 08, 12 + quick test | about 3 hrs. |
-| **Standard** | Regular users | 00–08, 10–13, 22, 23 + tests A–C, F | about 8–10 hrs. |
-| **Advanced** | Tech enthusiasts, power users | all 24 (incl. 09, API-oriented) + all tests incl. final test | about 2 days |
+| **Standard** | Regular users | 00–08, 10–13, 22, 23 + tests A–C, F, optional capstone (25) | about 8–10 hrs. (+ 2–4 hrs. capstone) |
+| **Advanced** | Tech enthusiasts, power users | all 24 (incl. 09, API-oriented) + all tests incl. final test, capstone (25) recommended | about 2 days (+ 2–4 hrs. capstone) |
 
 In the standard path, questions 14–15 (topic 09) are omitted from Test B; the pass mark is then 20/26.
 
@@ -41,9 +41,9 @@ The total effort for the standard path is about 8–10 hours – freely divisibl
 (your language folder, e.g. en/)
 ├── 00_introduction_handout       ← start here
 ├── 01_cheatsheets/
-│   └── 01_what_is_ai … 24_glossary_further_learning
+│   └── 01_what_is_ai … 25_capstone_project
 ├── 02_extra_exercises/
-│   └── 01_extra_exercises … 23_extra_exercises
+│   └── 01_extra_exercises … 25_capstone_extra_exercises
 ├── 03_tests/
 │   ├── entrance_test
 │   ├── test_A_foundation … test_F_final
@@ -53,8 +53,12 @@ The total effort for the standard path is about 8–10 hours – freely divisibl
 ├── 04_trainer/
 │   ├── question_template
 │   └── faq  (grows with the questions)
-└── 05_progress/
-    └── learning_progress  (checklist to tick off)
+├── 05_progress/
+│   └── learning_progress  (checklist to tick off)
+└── 06_capstone/  (after the final test)
+    ├── project_instructions  (project instructions, start here)
+    ├── example_portfolio  (fictional sample "Person A")
+    └── checklist  (self-assessment, 24 points)
 ```
 
 ---
@@ -85,7 +89,7 @@ You assess practice tasks uniformly with the rubric in `03_tests/self_assessment
 
 ## Extra exercises
 
-For every topic 01–23 there is a file with 3–5 tasks (topic 24 is the glossary and has none):
+For every topic 01–23 there is a file with 3–5 tasks (topic 24 is the glossary and has none). In addition, the capstone exercises (`02_extra_exercises/25_capstone_extra_exercises`) prepare the final project:
 
 - **Three levels:** ★ entry, ★★ everyday, ★★★ challenge
 - Everyday scenarios (email, vacation, office, learning, household)
@@ -148,5 +152,6 @@ Work through the topics in numerical order. The "Path" column shows which learni
 | **F – Final** | 22 | Legal & compliance | Know the basic legal rules for everyday life (no legal advice) | St, F |
 | | 23 | Everyday workflows & prompt library | Turn what you have learned into repeatable routines | St, F |
 | | 24 | Glossary & further learning | Look up basic terms and keep learning on your own | F |
+| **Capstone** | 25 | My personal AI workflow assistant | Turn what you have learned into a portfolio-worthy project (after the final test; grading: checklist in `06_capstone/checklist`) | St (optional), F (recommended) |
 
 *As of: October 2026*

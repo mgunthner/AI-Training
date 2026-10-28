@@ -38,6 +38,7 @@ Die genauen Themen je Pfad findest du in der Roadmap (`KI-Training_Roadmap`). Du
 | `03_tests/` | Eingangstest, Kurztest, Blocktests A–F, Abschlusstest, Lösungen getrennt |
 | `04_trainer/` | Fragenvorlage und FAQ |
 | `05_fortschritt/lernfortschritt` | Checkliste zum Abhaken |
+| `06_capstone/` | Capstone-Projekt (nach dem Abschlusstest): Projektanleitung, Beispiel-Portfolio, Checkliste |
 | `KI-Training_Roadmap` | Lernpfade und Themenplan im Detail |
 
 Arbeite die Themen in der Reihenfolge der Nummern durch. Sie bauen aufeinander auf.
@@ -65,6 +66,7 @@ Die Tests sind kein Zeugnis, sondern ein Spiegel: Sie zeigen dir, was sitzt und 
 - **Abschlusstest:** am Ende, mischt Wissen und Praxis (`03_tests/abschlusstest`)
 - **Bestanden** ab 75 %. Du wertest selbst aus, mit der Lösungsdatei. Praxisaufgaben bewertest du mit dem Selbstbewertungsraster (`03_tests/selbstbewertung`) – Kriterium für Kriterium, im Zweifel streng. Schau erst in die Lösung, wenn du fertig bist.
 - **Nicht bestanden?** Die Lösung nennt dir die Themen zum Wiederholen. Danach kannst du den Test erneut machen.
+- **Danach?** Mit dem Capstone (`06_capstone/projektanleitung`) verwandelst du das Gelernte in ein eigenes Projekt – optional im Standard-Pfad, empfohlen im Fortgeschrittenen-Pfad.
 
 Hake deine Fortschritte in der Checkliste ab (gelesen / geübt / Test bestanden).
 

@@ -94,6 +94,7 @@ Suche dir drei Begriffe aus dem Glossar, die dir noch unsicher vorkommen, und er
 ## Weiter
 - Zusatzübungen: keine (Thema 24 ist das Glossar)
 - Test: Test F (Abschluss) und Abschlusstest
+- Danach: Capstone (`06_capstone/projektanleitung`) – dein Abschlussprojekt
 - Verwandt: alle Cheatsheets – das Glossar verlinkt die Begriffe zu ihren Themen
 
 *Stand: Oktober 2026*

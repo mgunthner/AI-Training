@@ -81,6 +81,14 @@ Here you can see where you stand in the training. Copy the file and check items 
 | 23 | Everyday workflows & prompt library | St | ☐ | ☐ |
 | 24 | Glossary & further learning | F | ☐ | – |
 
+### Capstone (after the final test)
+
+| No. | Topic | Path | read | practiced |
+|---|---|---|---|---|
+| 25 | Capstone: My personal AI workflow assistant | St (optional), F (recommended) | ☐ | ☐ |
+
+"Read" = worked through the project instructions and Cheatsheet 25, "practiced" = project completed and graded with the capstone checklist (`06_capstone/checklist`).
+
 ---
 
 ## 3. Tests
@@ -100,6 +108,8 @@ A test is passed at **75 %** or more. You don't get a grade for the entrance tes
 | Final test | all blocks | F | | | ☐ |
 
 Note: **Test B** also covers topic 09, which only appears in the Advanced path. Standard path: skip questions 14–15, then the pass mark is 20 out of 26 points.
+
+**Capstone:** No test of its own – you grade the final project with the capstone checklist (`06_capstone/checklist`), pass mark **17 out of 24 points**. Prerequisite: final test passed.
 
 **Topics to repeat:**
 
@@ -142,6 +152,7 @@ Collect successful prompts from day 1 in a separate note file (template in Cheat
 - ☐ First 3 prompts collected
 - ☐ 10 prompts collected
 - ☐ Prompts labeled with title, purpose, and example result
+- ☐ Library carried into the capstone (`06_capstone/project_instructions`) – optional
 
 Remember: only save **invented or anonymized** content.
 

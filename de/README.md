@@ -31,12 +31,14 @@ Wir wünschen uns dafür etwas zurück – aber kein Geld:
 | `03_tests/`                 | Eingangstest und Blocktests samt Lösungen (getrennt) |
 | `04_trainer/`               | Fragenvorlage und FAQ                                 |
 | `05_fortschritt/`           | Checkliste zum Abhaken                                |
+| `06_capstone/`              | Capstone-Projekt: Projektanleitung, Beispiel-Portfolio, Checkliste |
 | `KI-Training_Roadmap`    | Lernpfade und Themenplan im Detail                    |
 
 ## Aktueller Stand des Materials
 
 - **Alle 24 Themen** (Blöcke A–F) sind fertig ausgearbeitet: Cheatsheets 01–24 und Zusatzübungen 01–23.
 - **Tests:** Eingangstest, Kurztest Schnellstart, Blocktests A–F und Abschlusstest – jeweils mit separater Lösungsdatei.
+- **Capstone:** Optional im Standard-Pfad, empfohlen im Fortgeschrittenen-Pfad – nach bestandenem Abschlusstest (`06_capstone/`).
 - **Support:** Fragenvorlage (GitHub Issues) und FAQ verfügbar.
 
 ## Lizenz

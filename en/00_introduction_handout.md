@@ -38,6 +38,7 @@ You can find the exact topics per path in the roadmap (`AI-Training_Roadmap`). Y
 | `03_tests/` | Entrance test, quick test, block tests A–F, final test, solutions separate |
 | `04_trainer/` | Question template and FAQ |
 | `05_progress/learning_progress` | Checklist to tick off |
+| `06_capstone/` | Capstone project (after the final test): project instructions, example portfolio, checklist |
 | `AI-Training_Roadmap` | Learning paths and topic plan in detail |
 
 Work through the topics in numerical order. They build on each other.
@@ -65,6 +66,7 @@ The tests are not a report card but a mirror: they show you what has stuck and w
 - **Final test:** at the end, mixes knowledge and practice (`03_tests/final_test`)
 - **Pass mark:** 75 %. You grade it yourself, using the solutions file. You assess practice tasks with the self-assessment rubric (`03_tests/self_assessment`) – criterion by criterion, stricter rather than lenient when in doubt. Only look at the solution when you are done.
 - **Not passed?** The solution names the topics you should review. After that you can retake the test.
+- **After that?** With the capstone (`06_capstone/project_instructions`) you turn what you have learned into your own project – optional in the Standard path, recommended in the Advanced path.
 
 Tick off your progress in the checklist (read / practiced / test passed).
 

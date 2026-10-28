@@ -14,8 +14,8 @@ Wähle den Pfad, der zu dir passt. Du kannst jederzeit einen Pfad erweitern oder
 | Pfad | Für wen | Themen | Aufwand |
 |---|---|---|---|
 | **Schnellstart** | Alle – Pflichtprogramm | 00, 01, 02, 03, 04, 05, 08, 12 + Kurztest | ca. 3 Std. |
-| **Standard** | Regelmäßige Nutzer | 00–08, 10–13, 22, 23 + Tests A–C, F | ca. 8–10 Std. |
-| **Fortgeschritten** | Technikinteressierte, Power-User | alle 24 (inkl. 09, API-orientiert) + alle Tests inkl. Abschlusstest | ca. 2 Tage |
+| **Standard** | Regelmäßige Nutzer | 00–08, 10–13, 22, 23 + Tests A–C, F, optional Capstone (25) | ca. 8–10 Std. (+ 2–4 Std. Capstone) |
+| **Fortgeschritten** | Technikinteressierte, Power-User | alle 24 (inkl. 09, API-orientiert) + alle Tests inkl. Abschlusstest, Capstone (25) empfohlen | ca. 2 Tage (+ 2–4 Std. Capstone) |
 
 Im Standard-Pfad entfallen in Test B die Fragen 14–15 (Thema 09); die Bestehensgrenze liegt dann bei 20/26.
 
@@ -41,9 +41,9 @@ Der Gesamtaufwand für den Standard-Pfad beträgt ca. 8–10 Stunden – frei ei
 (dein Sprachordner, z. B. de/)
 ├── 00_einfuehrung_handout       ← hier starten
 ├── 01_cheatsheets/
-│   └── 01_was_ist_ki … 24_glossar_weiterlernen
+│   └── 01_was_ist_ki … 25_capstone_projekt
 ├── 02_zusatzuebungen/
-│   └── 01_zusatzuebungen … 23_zusatzuebungen
+│   └── 01_zusatzuebungen … 25_capstone_zusatzuebungen
 ├── 03_tests/
 │   ├── eingangstest
 │   ├── test_A_fundament … test_F_abschluss
@@ -53,8 +53,12 @@ Der Gesamtaufwand für den Standard-Pfad beträgt ca. 8–10 Stunden – frei ei
 ├── 04_trainer/
 │   ├── fragenvorlage
 │   └── faq  (wächst mit den Fragen)
-└── 05_fortschritt/
-    └── lernfortschritt  (Checkliste zum Abhaken)
+├── 05_fortschritt/
+│   └── lernfortschritt  (Checkliste zum Abhaken)
+└── 06_capstone/  (nach dem Abschlusstest)
+    ├── projektanleitung  (Projektanleitung, Start hier)
+    ├── beispiel_portfolio  (fiktives Muster „Person A")
+    └── checkliste  (Selbstbewertung, 24 Punkte)
 ```
 
 ---
@@ -85,7 +89,7 @@ Praxisaufgaben bewertest du einheitlich mit dem Raster in `03_tests/selbstbewert
 
 ## Zusatzübungen
 
-Zu jedem Thema 01–23 gibt es eine Datei mit 3–5 Aufgaben (Thema 24 ist das Glossar und hat keine):
+Zu jedem Thema 01–23 gibt es eine Datei mit 3–5 Aufgaben (Thema 24 ist das Glossar und hat keine). Zusätzlich bereiten die Capstone-Übungen (`02_zusatzuebungen/25_capstone_zusatzuebungen`) das Abschlussprojekt vor:
 
 - **Drei Stufen:** ★ Einstieg, ★★ Alltag, ★★★ Herausforderung
 - Alltagsnahe Szenarien (E-Mail, Urlaub, Büro, Lernen, Haushalt)
@@ -148,5 +152,6 @@ Arbeite die Themen in Nummernreihenfolge durch. Die Spalte „Pfad" zeigt, in we
 | **F – Abschluss** | 22 | Recht & Compliance | Rechtliche Grundregeln im Alltag kennen (keine Rechtsberatung) | St, F |
 | | 23 | Alltagsworkflows & Prompt-Bibliothek | Gelerntes in wiederholbare Routinen überführen | St, F |
 | | 24 | Glossar & Weiterlernen | Grundbegriffe nachschlagen und eigenständig weiterlernen | F |
+| **Capstone** | 25 | Mein persönlicher KI-Workflow-Assistent | Gelerntes in ein portfolio-würdiges Projekt überführen (nach dem Abschlusstest) | St (optional), F (empfohlen) |
 
 *Stand: Oktober 2026*

@@ -190,3 +190,4 @@ Zähle deine Punkte mit der Lösungsdatei zusammen.
 - **35–46 Punkte:** bestanden
 - **0–34 Punkte:** noch nicht bestanden. Die Lösung zeigt dir, welche Blöcke du wiederholen solltest. Danach kannst du den Test erneut machen.
 - Optional: Teilnahmebestätigung als Vorlage (keine formale Zertifizierung).
+- Bestanden? Dann kannst du weitermachen: mit dem Capstone (`06_capstone/projektanleitung`) – deinem eigenen Abschlussprojekt.
